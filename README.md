@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Henrique-vanuccy
-- 👀 I’m interested in ... Ser um desenvolvedor front-end
-- 🌱 I’m currently learning ...HTML, CSS, Javascript, react.js e git
+- 👀 I’m interested in ... Ser um desenvolvedor
+- 🌱 I’m currently learning ...HTML, CSS, Javascript, react.js, PHP, MYSQL e git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...henrique_vanuccy@hotmail.com
 
